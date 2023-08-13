@@ -45,6 +45,9 @@ The data of a super store in the United State was provided for us to clean, anal
 The column chart shows total profit across the different cities with New york having the Highest profit while Detroit generated the least profit.
 
 ![](answer3.png)
+The Bar chat indicated the Total Profit Generated across the differnt sub-category the copiers had the most profit with binders returning the lowest.
+
+![](answer4.png)
 
 
 
