@@ -48,7 +48,21 @@ The column chart shows total profit across the different cities with New york ha
 The Bar chat indicated the Total Profit Generated across the differnt sub-category the copiers had the most profit with binders returning the lowest.
 
 ![](answer4.png)
+The Pie chart explains the how profit are made among the three segments with consumer coming first and home 0ffice with the lowest profit.
 
+![](answer5.png)
+The line chart dipicts the month trend. the last quarter has the highest profit trend and first quarter having the least
+
+![](answer6.png)
+The area chart demostrated how profit are made across the days of the week. More profit
+are made on sunday than other days 
+
+![](answer7.png)
+![](answer8.png)
+The charts above shows how sales are made across different state and category, showing the states in which more sales are made and sub-category.
+
+![](slicer.png)
+The slicer was added to make the repeat interactive and make connection across the report.
 
 
 
